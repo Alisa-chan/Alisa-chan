@@ -12,7 +12,7 @@
 
 - Currently Taking: [**Computer Science**]
 
-- Currently Learning: **Html** **Css**
+- Currently Learning: **Html** **Css** **JavaScript**
 
 - Proficient in: **GNU/Linux (I use Arch btw)**  
 
