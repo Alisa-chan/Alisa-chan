@@ -6,7 +6,7 @@
   <img src="gif/konata-drink.gif" alt="Konata drinking" />
 </div>
 
-- Name: **Elizer Libatique** / **Alisa-chan**
+- Name: **Elizer Libatique** / **Santia**
 
 - Residing in: **San Juan, La Union / Philippines**
 
