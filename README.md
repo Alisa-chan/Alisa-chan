@@ -1,6 +1,6 @@
 # Yow Welcome
 
-**I just wanna sleep (Developer)**
+**I just wanna sleep (Student)**
 
 <div align="center">
   <img src="gif/konata-drink.gif" alt="Konata drinking" />
